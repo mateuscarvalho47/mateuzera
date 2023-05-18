@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Mateus Carvalho e eu tenho 22 anos.
+- 👋 Olá, meu nome é Mateus Carvalho e eu tenho 24 anos.
 - 👀 Estou interessado em aprender desenvolvimento de software como um todo.
 - 🌱 Atualmente eu estou estudando HTML e CSS para assim, dar inicio em JavaScript de maneira mais tranquila.
 
